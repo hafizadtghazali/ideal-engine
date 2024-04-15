@@ -19498,7 +19498,7 @@ form + .row {
       bottom: 0;
       top: 0;
       z-index: -1;
-      background-color: rgba(25, 45, 53, 0.3); }
+      background-color: rgba(25, 45, 53, 0.5); }
   [class|="page-header"] [class|="sectiontitle-element"] a[class|="simple"], [class|="page-header"] [class|="sectiontitle-element"] a[class|="btn"] {
     margin-right: 0.5rem; }
   [class|="page-header"] [class|="rectangle-element"] [class|="info"] [class|="image"]:after {
