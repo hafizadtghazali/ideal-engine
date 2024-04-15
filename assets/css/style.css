@@ -19453,7 +19453,7 @@ form + .row {
       width: 100%;
       height: auto;
       position: absolute;
-      animation: ppb_kenburns 100s linear infinite alternate; }
+      /*animation: ppb_kenburns 100s linear infinite alternate;*/ }
       @media screen and (max-width: 1090px) {
         [class|="page-header"] [class*="imagebg"] img {
           height: 100%;
