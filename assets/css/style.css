@@ -19476,7 +19476,6 @@ form + .row {
       [class|="page-header"][class*="bg"][class*="round"]:after, [class|="page-header"][class*="image"][class*="round"]:after {
         content: "";
         width: 100%;
-        height: 5vw;
         position: absolute;
         bottom: -1px;
         pointer-events: none;
